@@ -7,4 +7,4 @@
 
 ![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicius-lima-ventura&show_icons=true&theme=merko)
 
-Graduado em Sistemas de Informação buscando me aperfeiçoar para se tornar um Desenvolvedor 💻👽
+Graduado em Sistemas de Informação buscando me aperfeiçoar para se tornar um Cientista de Dados 💻👽
